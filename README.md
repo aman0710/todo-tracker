@@ -1,3 +1,9 @@
+# About My Project 
+This is a basic todo app. This project was created using React.js and uses useRef, useState and useEffect hooks. 
+
+## Link to my project
+https://todo-tracker0710.herokuapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
